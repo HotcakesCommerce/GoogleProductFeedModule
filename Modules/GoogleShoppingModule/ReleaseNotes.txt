@@ -6,7 +6,7 @@
 	<p>Please note that this is not meant to be a production-ready module. It is only a proof of concept for developers.</p>
 
 	<h3>Version 01.00.00</h3>
-	<p><strong>Date Released:</strong> 09/15/2016</p>
+	<p><strong>Date Released:</strong> 09/20/2016</p>
 	<ul>
 		<li>Able to create a Google Shopping feed for import.</li>
 	</ul>
